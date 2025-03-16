@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Makasin204/malvina/static/css/main.79d19d76.css",
-    "main.js": "/Makasin204/malvina/static/js/main.1b9fe85c.js",
-    "static/js/453.cbbc3871.chunk.js": "/Makasin204/malvina/static/js/453.cbbc3871.chunk.js",
-    "static/media/costume7.JPG": "/Makasin204/malvina/static/media/costume7.83d3b60a51997d9c4daa.JPG",
-    "static/media/costume8.JPG": "/Makasin204/malvina/static/media/costume8.a041aec6f660b2e20a41.JPG",
-    "static/media/costume4.JPG": "/Makasin204/malvina/static/media/costume4.d174ff807034f610b7cc.JPG",
-    "static/media/costume2.JPG": "/Makasin204/malvina/static/media/costume2.719db95f9688d4460dcc.JPG",
-    "static/media/costume1.JPG": "/Makasin204/malvina/static/media/costume1.dcf6645d72c5a7dcec42.JPG",
-    "static/media/costume3.JPG": "/Makasin204/malvina/static/media/costume3.ffe24319a7a65718f003.JPG",
-    "static/media/costume9.JPG": "/Makasin204/malvina/static/media/costume9.888a5a682f7a850fee1f.JPG",
-    "static/media/costume6.JPG": "/Makasin204/malvina/static/media/costume6.82835af49657c3f84dc2.JPG",
-    "static/media/logo.png": "/Makasin204/malvina/static/media/logo.9db2b5d57be9ed7d2de7.png",
-    "static/media/costume5.JPG": "/Makasin204/malvina/static/media/costume5.f152861065fcffd6f0ce.JPG",
-    "index.html": "/Makasin204/malvina/index.html",
-    "main.79d19d76.css.map": "/Makasin204/malvina/static/css/main.79d19d76.css.map",
-    "main.1b9fe85c.js.map": "/Makasin204/malvina/static/js/main.1b9fe85c.js.map",
-    "453.cbbc3871.chunk.js.map": "/Makasin204/malvina/static/js/453.cbbc3871.chunk.js.map"
+    "main.css": "/Malvina-app/static/css/main.3841b92e.css",
+    "main.js": "/Malvina-app/static/js/main.e391be03.js",
+    "static/js/453.cbbc3871.chunk.js": "/Malvina-app/static/js/453.cbbc3871.chunk.js",
+    "static/media/costume7.JPG": "/Malvina-app/static/media/costume7.83d3b60a51997d9c4daa.JPG",
+    "static/media/costume8.JPG": "/Malvina-app/static/media/costume8.a041aec6f660b2e20a41.JPG",
+    "static/media/costume4.JPG": "/Malvina-app/static/media/costume4.d174ff807034f610b7cc.JPG",
+    "static/media/costume2.JPG": "/Malvina-app/static/media/costume2.719db95f9688d4460dcc.JPG",
+    "static/media/costume1.JPG": "/Malvina-app/static/media/costume1.dcf6645d72c5a7dcec42.JPG",
+    "static/media/costume3.JPG": "/Malvina-app/static/media/costume3.ffe24319a7a65718f003.JPG",
+    "static/media/costume9.JPG": "/Malvina-app/static/media/costume9.888a5a682f7a850fee1f.JPG",
+    "static/media/costume6.JPG": "/Malvina-app/static/media/costume6.82835af49657c3f84dc2.JPG",
+    "static/media/logo.png": "/Malvina-app/static/media/logo.9db2b5d57be9ed7d2de7.png",
+    "static/media/costume5.JPG": "/Malvina-app/static/media/costume5.f152861065fcffd6f0ce.JPG",
+    "index.html": "/Malvina-app/index.html",
+    "main.3841b92e.css.map": "/Malvina-app/static/css/main.3841b92e.css.map",
+    "main.e391be03.js.map": "/Malvina-app/static/js/main.e391be03.js.map",
+    "453.cbbc3871.chunk.js.map": "/Malvina-app/static/js/453.cbbc3871.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.79d19d76.css",
-    "static/js/main.1b9fe85c.js"
+    "static/css/main.3841b92e.css",
+    "static/js/main.e391be03.js"
   ]
 }
